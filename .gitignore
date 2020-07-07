@@ -31,3 +31,7 @@ Working\ Copy\ of *
 # Python scripts for prepping data
 __pycache__/
 *.py[cod]
+
+
+#Libraries not to be put into the corpus:
+**Noorlib*
