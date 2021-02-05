@@ -1,14 +1,15 @@
 00#VERS#CLENGTH##: 6735128
 00#VERS#LENGTH###: 1504667
 00#VERS#URI######: 0821Qalqashandi.SubhAcsha.Shamela0009429-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: http://www.worldcat.org/oclc/913831574
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/30056764
+80#VERS#LINKS####: https://archive.org/details/FP11609/suaa00
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: I could not find a pdf of the edition (nor of the JK version which is based on another print), so I have primarily annotated based on the internal logic of the text which is exceptionally well signposted and on the editio princeps (see collated and link above, though I used it only sparingly). It seems that all later editions are based on the editio princeps. 
+ The hierarchy goes to well beyond the five headers mARkdown allows (up to 15, if I'm not mistaken). Keeping track of this hierarchy is sometimes challenging, so I may have missed some. 
+ In vol. 1 there is a table of contents which is part of the original text, it was tagged as [المقدمة] but that isn't really appropriate, so I changed this into '[Table of contents]'. 
+ From PageV03P056 onwards there are calligraphic examples in the edition, these have not been rendered in the digital version and are marked by "؟؟؟" - this may need to be addressed in the future.
+ There are various editorial sections throughout the work, usually at the end of volumes.
+ The header on the top of PageV04P074 ("second fasl of second maqala") is a weird case, it doesn't work in the numbering and general structure of the work, which normally follows the structure maqala-bab-fasl, so here the bab is skipped and the first fasl has not been signposted. I have left it as is and tagged it as third level header. There are a few other cases where the typical maqala-bab-fasl structure is not followed perfectly and where a level that should be bab is in fact denoted as fasl. There are also some places where more subdivisions are announced than are effectively there. I have not clarified these, as it would require close reading and may be down to issues of textual transmission. 
+90#VERS#DATE#####: 2021-02-05
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
