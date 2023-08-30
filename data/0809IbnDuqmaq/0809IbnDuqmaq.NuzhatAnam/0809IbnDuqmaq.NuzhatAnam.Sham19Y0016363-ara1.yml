@@ -5,6 +5,7 @@
 80#VERS#COLLATED#: https://worldcat.org/en/title/42246949
 80#VERS#LINKS####: https://archive.org/details/nzistaisnzistais
 90#VERS#ANNOTATOR: HRH
-90#VERS#COMMENT##: In a few parts, events seem to be intermixed with biographies, and the only way to separate them is to read the text closely.
+90#VERS#COMMENT##: In a few parts, events seem to be intermixed with biographies, 
+    and the only way to separate them is to read the text closely.
 90#VERS#DATE#####: 2023-07-06
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, CLEANED_VERSION, PRIMARY_VERSION
