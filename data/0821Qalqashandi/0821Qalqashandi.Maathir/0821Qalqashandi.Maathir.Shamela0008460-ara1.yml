@@ -6,5 +6,8 @@
 80#VERS#LINKS####: https://archive.org/details/010300890
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: The text seemed to be typed carelessly. I see some pages that are missing (PageV01P317, PageV03P002 for instance).
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2023-03-17
-90#VERS#ISSUES###: MISSING_PARTS
+90#VERS#ISSUES###: MISSING_PARTS, PRIMARY_VERSION, CLEANED_VERSION

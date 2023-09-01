@@ -5,6 +5,8 @@
 80#VERS#COLLATED#: permalink, permalink, permalink
 80#VERS#LINKS####: https://archive.org/details/FP64223
 90#VERS#ANNOTATOR: 
-90#VERS#COMMENT##: 
+90#VERS#COMMENT##: All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

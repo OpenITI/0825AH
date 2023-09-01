@@ -6,9 +6,12 @@
 80#VERS#LINKS####: https://ar.islamway.net/book/17900/الوفيات-لابن-قنفذ
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: Closely corresponds to the printed edition .Numbers
-    are missing from the biographical entries in the digital edition. These
-    are not simply a numbering system but are the death years of the
-    individuals of the given entry. The death date, however, is repeated in
-    the entry itself in long form.
+        are missing from the biographical entries in the digital edition. These
+        are not simply a numbering system but are the death years of the
+        individuals of the given entry. The death date, however, is repeated in
+        the entry itself in long form.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-08-05
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

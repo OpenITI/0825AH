@@ -6,5 +6,8 @@
 80#VERS#LINKS####: https://www.noor-book.com/كتاب-اختصار-الأخبار-عما-كان-بثغر-سبتة-من-سني-الآثار-pdf
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: Short work. Closely corresponds to printed edition.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-08-05
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

@@ -6,6 +6,9 @@
 80#VERS#LINKS####: https://ar.islamway.net/book/13941/البلغة-في-تراجم-أئمة-النحو-واللغة-الفيروزآبادي
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: Closely corresponds to printed edition; no obvious
-    errors.
+        errors.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-08-05
-90#VERS#ISSUES###: EDITORIAL_SECTIONS
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION
