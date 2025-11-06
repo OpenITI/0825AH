@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0821-JU2-10
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q400919
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "S̲h̲ihāb al-Dīn Abu ’l-ʿAbbās Aḥmad b. ʿAlī (ʿAbd Allāh?) b. Aḥmad b. ʿAbd Allāh al-Fazārī al-S̲h̲āfiʿī, legal scholar and secretary in the Mamlūk chancery, and author of several books.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_3832

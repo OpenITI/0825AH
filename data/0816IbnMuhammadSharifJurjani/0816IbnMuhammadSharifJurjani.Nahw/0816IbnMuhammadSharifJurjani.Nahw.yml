@@ -8,6 +8,7 @@
     followed by abbreviation for relation type between brackets (see
     book_relations repo). Only include relations with older books. Separate
     related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink

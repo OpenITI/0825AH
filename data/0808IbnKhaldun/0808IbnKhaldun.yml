@@ -16,5 +16,6 @@
 30#AUTH#DIED###AH: 0808-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q9294
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Walī al-Dīn ʿAbd al-Raḥmān b. Muḥammad b. Muḥammad b. Abī Bakr Muḥammad b. al-Ḥasan (732-84/1332-82), one of the strongest personalities of Arabo-Muslim culture in the period of its decline.": http://dx.doi.org/10.1163/1573-3912_islam_COM_0330; EI3: http://dx.doi.org/10.1163/1573-3912_ei3_COM_30943
